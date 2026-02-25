@@ -1,0 +1,7 @@
+{
+  "name": "Pay Per Laugh APP - Theater Edition",
+  "description": "A creative technologist prototype that charges you per laugh using real-time facial expression detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
